@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 760066
+Build-Jdk: 11.0.3
+Implementation-Title: validationpage
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/validationpage
+Created-By: Maven Integration for Eclipse
+
